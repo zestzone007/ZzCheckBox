@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ZzCheckBox">
+        <attr name="checked" format="boolean" />
+        <attr name="checked_drawable" format="reference" />
+        <attr name="unchecked_drawable" format="reference" />
+        <attr name="checked_text_color" format="color" />
+        <attr name="unchecked_text_color" format="color" />
+        <attr name="unable_text_color" format="color" />
+    </declare-styleable>
+</resources>
